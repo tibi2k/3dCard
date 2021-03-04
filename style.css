@@ -59,7 +59,7 @@ body {
 }
 .sizes {
     display: flex;
-    justify-self: space-between;
+    justify-content: space-between;
 }
 .sizes button {
     padding: 0.5rem 2rem;
